@@ -1,0 +1,15 @@
+.vscode
+.editorconfig
+.gitignore
+.eslintrc.js
+.eslintrc.prepublish.js
+.prettierrc.js
+tsconfig.json
+gulpfile.js
+nodes
+credentials
+test
+.github
+*.md
+!README.md
+!LICENSE.md

@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-base.notifyMeTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://help.notify-me.io/en/articles/13184354-notify-me-public-api"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://help.notify-me.io/en/articles/13184354-notify-me-public-api"
+			}
+		]
+	},
+	"alias": ["restock", "back in stock", "preorder", "waitlist", "shopify", "trigger"]
+}
