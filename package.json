@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-notify-me",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "n8n community node for Notify Me! — Shopify back-in-stock, pre-order, and waitlist notifications.",
   "keywords": [
     "n8n-community-node-package",
@@ -18,6 +18,13 @@
     "name": "Notify Me!",
     "email": "support@notify-me.io",
     "url": "https://notify-me.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notifymeshopify/n8n-nodes-notify-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/notifymeshopify/n8n-nodes-notify-me/issues"
   },
   "engines": {
     "node": ">=20.15"
