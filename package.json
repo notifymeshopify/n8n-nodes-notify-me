@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-notify-me",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "n8n community node for Notify Me! — Shopify back-in-stock, pre-order, and waitlist notifications.",
   "keywords": [
     "n8n-community-node-package",
